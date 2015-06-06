@@ -1,0 +1,22 @@
+{
+  "name": "learnsql",
+  "version": "0.0.1",
+  "description": "Learn SQL with AlaSQL and Node.js",
+  "bin": {
+    "learnsql": "runner.js"
+  },
+  "author": "Andrey Gershun",
+  "license": "MIT",
+  "keywords": [
+    "nodeschool",
+    "adventure",
+    "education",
+    "sql",
+    "alasql"
+  ],
+  "dependencies": {
+    "adventure": "^2.2.0",
+    "adventure-verify": "^2.1.1",
+    "alasql": "~0.1.10"
+  }
+}
